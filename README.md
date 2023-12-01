@@ -36,8 +36,8 @@ https://postgres-sql-6aba726b2968.herokuapp.com/jemsa/least (same as above)
 
 ## Credit to: 
 
-@Sebastián O. Espinosa Del Rosario - sebastian.espinosa@upr.edu  for helping with the racks and parts Daos and Handlers
+-Sebastián O. Espinosa Del Rosario - sebastian.espinosa@upr.edu  for helping with the racks and parts Daos and Handlers
 
-and
 
-María H. Cotto Nieves - maria.cotto@upr.edu for the help with the diagrams
+
+-María H. Cotto Nieves - maria.cotto@upr.edu for the help with the diagrams
