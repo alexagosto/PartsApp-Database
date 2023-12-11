@@ -1,1 +1,0 @@
-web: gunicorn --chdir ProjectFolder ProjectFolder.app:app
